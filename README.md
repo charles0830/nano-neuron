@@ -349,4 +349,4 @@ Normally the output of a neuron should be passed through an activation function 
 
 - [@trekhleb](https://trekhleb.dev)
 
-Let's start! :)
+Let's start! :):D:)
