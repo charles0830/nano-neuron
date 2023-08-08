@@ -354,6 +354,3 @@ Normally the output of a neuron should be passed through an activation function 
 
 
 
-
-
-

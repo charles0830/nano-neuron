@@ -2,8 +2,6 @@
 
 > 7 funções simples do JavaScript que farão você ter uma ideia de como as máquinas podem "aprender"  literalmente.
 
-
-
 _Em outros idiomas: [Русский](README.ru-RU.md), [English](README.md)_
 
 > _Você também pode se interessar por 🤖 [Experimentos interativos de Machine Learning (em inglês)](https://github.com/trekhleb/machine-learning-experiments)_
@@ -345,3 +343,4 @@ A função de custo que estamos usando nesse exemplo é muito simplificada. Deve
 ### Função de ativação
 
 Normalmente a saída do neurônio deveria passar por uma função de ativação como a [Sigmoid](https://pt.wikipedia.org/wiki/Fun%C3%A7%C3%A3o_sigmoide) ou a [ReLU](https://pt.qwe.wiki/wiki/Rectifier_(neural_networks)) ou outras.
+
