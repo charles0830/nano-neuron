@@ -2,8 +2,6 @@
 
 > 7 funções simples do JavaScript que farão você ter uma ideia de como as máquinas podem "aprender"  literalmente.
 
-
-
 _Em outros idiomas: [Русский](README.ru-RU.md), [English](README.md)_
 
 > _Você também pode se interessar por 🤖 [Experimentos interativos de Machine Learning (em inglês)](https://github.com/trekhleb/machine-learning-experiments)_
